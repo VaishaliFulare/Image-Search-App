@@ -1,3 +1,5 @@
+## 🛠️ Deployed Link
+https://searchimage.niat.tech/
 # 🖼️ Image Search App
 
 A modern, responsive web app to search and display images using the **Unsplash API**. Type any keyword (like “India”, “Nature”, “Cats”) and explore beautiful, high-quality images with photographer credit.
